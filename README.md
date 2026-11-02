@@ -1,21 +1,34 @@
-# My instrument
+# The Tracking Ball
 
-**Play it here:** <!-- Paste your GitHub Pages link here, e.g. https://idbcourses.github.io/your-repo-name/ -->
+**Play it here:** <!-- Paste your GitHub Pages link here, e.g. https://idbcourses.github.io/ht26-a3-diegoariasp/ -->
 
-**Name:** <!-- Your name and MAU ID -->
+**Name:** <!-- Diego Arias // MAUID: as1942 -->
 
-<!-- One or two sentences: what kind of instrument is it, and what is it like to play? -->
+<!-- 
+This instrument is an interactive/visual synthesizer, which can be controlled with the mouse pointer.
+It is a slow tracking ball with a fading trail that reacts to mouse movements.
+The pitch of the instrument changes depending on the vertical position of the ball,
+and the distance between the ball and the pointer determines how bright or dull the sound is, as well as the size and color of the shape.
+-->
 
 ## How to play
 
 <!-- Fill in the table with a row for everything the player can do with the pointer: clicking, moving slowly or fast, moving in circles, holding still... Say what happens to the sound and to the shapes. If you added keys, give them rows too. -->
 
-| When you...  | The sound...                         | The shapes... |
-| ------------ | ------------------------------------ | ------------- |
-| Click or tap | Plays a C4 (the example: replace it) | Nothing yet   |
-|              |                                      |               |
-
-<!-- Anything else a player needs to know: how to get started, a good thing to try first. -->
+| When you...       | The sound...                         | The shapes...                                                    |
+| ------------      | ------------------------------------ | ---------------------------------------------------------------- |
+| Move mouse slowly | Changes gradually                    | Changes color gradually                                          |
+| Move mouse fast   | Gets louder and brighter             | The ball grows, and turns red                                    |
+| Move mouse up     | Pitch goes up                        | Ball moves up, with the trail following it                       |
+| Move mouse down   | Pitch goes down                      | Ball moves down, with the trail following it                     |
+| Hold mouse still  | Gradually becomes quieter            | Ball and tail eventually settle back in position, color and size |
+| Circle motion     | WOOOoooOOOOoooOOOOoooOOOoo...        | Ball dynamically changes color and size, with trailing behind it |
+<!-- 
+Anything else a player needs to know: how to get started, a good thing to try first. 
+Click anywhere in the window to activate the audio first!!!
+Move mouse around to start playing
+Experiment with different types of movements and speeds
+-->
 
 ---
 
