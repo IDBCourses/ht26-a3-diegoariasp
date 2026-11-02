@@ -1,19 +1,17 @@
 # The Tracking Ball
 
-**Play it here:** <!-- Paste your GitHub Pages link here, e.g. https://idbcourses.github.io/ht26-a3-diegoariasp/ -->
+**Play it here: https://idbcourses.github.io/ht26-a3-diegoariasp/** 
 
-**Name:** <!-- Diego Arias // MAUID: as1942 -->
+**Name: Diego Arias // MAUID: as1942**
 
-<!-- 
 This instrument is an interactive/visual synthesizer, which can be controlled with the mouse pointer.
 It is a slow tracking ball with a fading trail that reacts to mouse movements.
 The pitch of the instrument changes depending on the vertical position of the ball,
 and the distance between the ball and the pointer determines how bright or dull the sound is, as well as the size and color of the shape.
--->
+
 
 ## How to play
 
-<!-- Fill in the table with a row for everything the player can do with the pointer: clicking, moving slowly or fast, moving in circles, holding still... Say what happens to the sound and to the shapes. If you added keys, give them rows too. -->
 
 | When you...       | The sound...                         | The shapes...                                                    |
 | ------------      | ------------------------------------ | ---------------------------------------------------------------- |
@@ -23,12 +21,11 @@ and the distance between the ball and the pointer determines how bright or dull 
 | Move mouse down   | Pitch goes down                      | Ball moves down, with the trail following it                     |
 | Hold mouse still  | Gradually becomes quieter            | Ball and tail eventually settle back in position, color and size |
 | Circle motion     | WOOOoooOOOOoooOOOOoooOOOoo...        | Ball dynamically changes color and size, with trailing behind it |
-<!-- 
-Anything else a player needs to know: how to get started, a good thing to try first. 
+
 Click anywhere in the window to activate the audio first!!!
 Move mouse around to start playing
 Experiment with different types of movements and speeds
--->
+
 
 ---
 
